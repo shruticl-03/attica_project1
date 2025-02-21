@@ -1,0 +1,27 @@
+form div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 100px; /* Adjust label width for alignment */
+}
+
+input {
+    width: 250px; /* Set equal width for all input fields */
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    width: 260px; /* Match button width with inputs */
+    padding: 8px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
