@@ -17,15 +17,3 @@ input {
     box-sizing: border-box;
 }
 
-button {
-    width: 260px; /* Match button width with inputs */
-    padding: 8px;
-    background-color: blue;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: darkblue;
-}
